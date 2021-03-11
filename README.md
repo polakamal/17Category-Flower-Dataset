@@ -6,6 +6,8 @@ We have created a 17 category flower dataset with 80 images for each class
 <a href="https://www.kaggle.com/saidakbarp/17-category-flowers" >Data Link</a>
 </br>
 # Results
-in this we used SVM and LR to classification between 17 class of flower category 
+we bulid SVM and LR Models by TensorFlow to classification between 17 class of flower category 
+</br>
 which LR gives us 31.62% accuracy 
+</br>
 and SVM gives us 32.169
